@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="712" height="178"><svg id="activeWhite" style="color:#FFFFFF;" x="0" y="0">
+		<g id="defaultContent">
+			<ellipse transform="matrix(0.1463 -0.9892 0.9892 0.1463 -228.09980000000002 824.7534)" fill="currentColor" cx="773.597" cy="206.73" rx="78.512" ry="78.512" fill-opacity="1"/>
+			<path opacity="0.35" d="M147.0,36.2c-1.2-1.3-2.5-2.6-3.8-3.8l-50.9,50.9v-72.0c-0.9-0.0-1.8-0.1-2.7-0.1c-0.9,0.0-1.8,0.0-2.7,0.1v72.0l-50.9-50.9c-1.3,1.2-2.6,2.5-3.8,3.8l50.9,50.9h-72.0c-0.0,0.9-0.1,1.8-0.1,2.7c0.0,0.9,0.0,1.8,0.1,2.7h72.0l-50.9,50.9c1.2,1.3,2.5,2.6,3.8,3.8l50.9-50.9v72.0c0.9,0.0,1.8,0.1,2.7,0.1c0.9,0.0,1.8-0.0,2.7-0.1v-72.0l50.9,50.9c1.3-1.2,2.6-2.5,3.8-3.8l-50.9-50.9h72.0c0.0-0.9,0.1-1.8,0.1-2.7c0.0-0.9-0.0-1.8-0.1-2.7H96.1L147.0,36.2z" fill-opacity="1"/>
+			<path fill="#999999" d="M89.6,11.2c43.4,0.0,78.5,35.2,78.5,78.5s-35.2,78.5-78.5,78.5c-43.4,0.0-78.5-35.2-78.5-78.5S46.2,11.2,89.6,11.2M89.6,4.2c-47.2,0.0-85.5,38.4-85.5,85.5s38.4,85.5,85.5,85.5s85.5-38.4,85.5-85.5S136.7,4.2,89.6,4.2L89.6,4.2z" fill-opacity="inherit"/>
+			<circle fill="#00FFFF" cx="89.5" cy="95.7" r="5" opacity="0" fill-opacity="1"/>
+		</g>
+	</svg>
+	<svg id="disabledWhite" x="178" y="0">
+		<use xlink:href="#defaultContent" style="color:#FFFFFF; fill-opacity: 0"/>
+	</svg>
+	<svg id="activeColored_2ED8FF" x="356" y="0">
+		<use xlink:href="#defaultContent" style="color:#2ED8FF;"/>
+	</svg>
+	<svg id="disabledColored_2ED8FF" x="534" y="0">
+		<use xlink:href="#defaultContent" style="color:#2ED8FF; fill-opacity: 0"/>
+	</svg>
+</svg>

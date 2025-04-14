@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="936" height="134"><svg x="0" y="0">
+		<g id="defaultContent">
+			<path fill="#96F961" d="M293.3,109.5c0.0-0.6-0.1-1.2-0.3-1.8c1.5-26.3,1.4-52.6-0.3-78.9c-0.2-3.7-4.0-6.9-9.0-6.9c-1.2,0.0-2.4,0.2-3.5,0.6c-0.9-0.2-1.8-0.4-2.7-0.4c-7.6-0.2-102.1-0.0-109.6,0.5c-1.1,0.1-2.3,0.3-3.3,0.6c-3.7-0.5-7.4-0.5-11.1,0.1c-20.5-0.6-41.1-1.1-61.6-1.7c-21.1-0.6-42.4-1.9-63.4-0.2c-4.9,0.4-9.0,2.9-9.0,6.9c0.0,1.0,0.3,2.0,0.9,2.9c-0.4,1.5-0.3,3.0,0.2,4.5c0.2,11.5,0.4,23.0,0.6,34.6c0.1,6.3,0.2,12.6,0.4,18.9c0.1,4.8,0.6,9.8,0.5,14.7c-0.8,0.7-1.4,5.4-1.6,6.3c-1.2,5.0,15.7,4.5,17.2,2.7c0.9,0.2,2.0,0.4,3.1,0.3c15.8-0.6,31.6-0.9,47.3-0.8c15.3,0.1,30.6,1.1,45.9,1.4c4.4,0.1,10.2,0.2,16.0-0.2c15.8,0.7,118.5,1.6,134.3,2.7C289.2,116.7,293.3,113.0,293.3,109.5z"/>
+			<circle fill="#00FFFF" cx="156.8" cy="68.4" r="5" opacity="0"/>
+		</g>
+	</svg>
+	<svg id="active" x="312" y="0">
+		<use xlink:href="#defaultContent" style="stroke: #000000; stroke-width: 14; opacity: 0.2; stroke-miterlimit: 10; stroke-linecap: round; stroke-linejoin: round;" x="6" y="6"/>
+		<use xlink:href="#defaultContent" style="stroke: #FFFFFF; stroke-width: 14; stroke-miterlimit: 10; stroke-linecap: round; stroke-linejoin: round;"/>
+		<use xlink:href="#defaultContent"/>
+	</svg>
+	<svg id="selected" x="624" y="0">
+		<use xlink:href="#defaultContent" style="stroke: #FFFFFF; stroke-width: 32; stroke-miterlimit: 10; stroke-linecap: round; stroke-linejoin: round;"/>
+		<use xlink:href="#defaultContent"/>
+	</svg>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="630" height="72"><g id="targetBottomMedium">
+		<rect x="1.6" y="1.4" opacity="0" fill="#FF00FF" width="627.358" height="69.108"/>
+		<circle fill="#FF00FF" cx="16.1" cy="37.8" r="4.5" opacity="0"/>
+		<circle fill="#FF00FF" cx="138.1" cy="37.8" r="4.5" opacity="0"/>
+		<circle fill="#FF00FF" cx="260.1" cy="37.8" r="4.5" opacity="0"/>
+		<circle fill="#FF00FF" cx="382.1" cy="37.8" r="4.5" opacity="0"/>
+		<circle fill="#00FFFF" cx="624.0" cy="65.5" r="5" opacity="0"/>
+	</g>
+</svg>
